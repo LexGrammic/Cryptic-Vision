@@ -1,0 +1,46 @@
+# NOTICE
+
+**Project:** Cryptic Vision
+
+**Founder and Original Author:**
+Alexander Liss
+
+**Project Identity:**
+Cryptic Vision
+
+**Engineering Doctrine:**
+
+```text
+Environment
+        ↓
+Verify
+        ↓
+Execute
+        ↓
+Expand
+```
+
+**Initial Public Repository:**
+2026
+
+---
+
+## Copyright Notice
+
+This repository contains original work developed as part of the Cryptic Vision engineering project.
+
+Unless otherwise stated, all source code, documentation, designs, artwork, graphics, animations, engineering methodologies, project architecture, and related materials are the intellectual property of Alexander Liss.
+
+© 2026 Alexander Liss. All Rights Reserved.
+
+---
+
+## Development Record
+
+The Git commit history for this repository serves as the authoritative development timeline and record of project evolution.
+
+---
+
+## Contact
+
+Licensing, collaboration, and permission requests should be directed to the copyright holder.
