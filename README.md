@@ -1,4 +1,4 @@
-# Cryptic Vision
+ # Cryptic Vision
 
 **Engineering instruments for designing, verifying, diagnosing, and evolving software through observation-first architecture.**
 
