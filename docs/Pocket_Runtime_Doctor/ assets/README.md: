@@ -1,0 +1,87 @@
+# Pocket Runtime Doctor Assets
+
+## Purpose
+
+The Assets directory contains the visual resources supporting Pocket Runtime Doctor.
+
+These assets document verified product behavior and provide media for engineering documentation, demonstrations, presentations, and future releases.
+
+---
+
+# Contents
+
+This directory may contain:
+
+• Product screenshots
+
+• Avatar artwork
+
+• Runtime diagrams
+
+• User interface graphics
+
+• Demo images
+
+• Icons
+
+• Release artwork
+
+• Packaging artwork
+
+• Promotional media
+
+---
+
+# Engineering Rules
+
+Assets represent verified product functionality.
+
+No placeholder images.
+
+No unverified interfaces.
+
+Visual documentation should match the current verified release.
+
+When product behavior changes, affected assets should be updated as part of the verification process.
+
+---
+
+# Naming Convention
+
+Use descriptive, lowercase filenames.
+
+Examples:
+
+startup.png
+
+patient_scan.png
+
+doctor_report.png
+
+export_complete.png
+
+avatar_idle.png
+
+avatar_scanning.png
+
+---
+
+# Relationship
+
+This directory supports the documentation contained in:
+
+Pocket_Runtime_Doctor/docs/
+
+and the product overview contained in:
+
+Pocket_Runtime_Doctor/README.md
+
+---
+
+Pocket Runtime Doctor
+
+Cryptic Vision
+
+Alchemotype Division
+
+© LexGrammic. All Rights Reserved.
